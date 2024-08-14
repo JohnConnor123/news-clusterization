@@ -1,0 +1,5 @@
+outs:
+- md5: c3fabfc5856248511acd097b5ebb3aba
+  size: 201589983
+  hash: md5
+  path: word2vec_weights.vec.gz
